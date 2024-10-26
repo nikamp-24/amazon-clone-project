@@ -4,5 +4,6 @@
 Navigation Bar:
 ![navbar](https://github.com/user-attachments/assets/e6b6fd83-3b4f-41ea-96d7-cd7be23ea14b)
 Home Page:
-![Uploading Hero _section.png…]()
+![Hero _section](https://github.com/user-attachments/assets/d5b4e226-31b4-4c77-83f5-18ea2f40d5ea)
+
 
