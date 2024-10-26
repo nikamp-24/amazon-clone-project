@@ -3,3 +3,6 @@
 <Br>
 Navigation Bar:
 ![navbar](https://github.com/user-attachments/assets/e6b6fd83-3b4f-41ea-96d7-cd7be23ea14b)
+Home Page:
+![Uploading Hero _section.png…]()
+
